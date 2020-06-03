@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "31299947414",
+    "firebase_url": "https://qrcodereader-90aeb.firebaseio.com",
+    "project_id": "qrcodereader-90aeb",
+    "storage_bucket": "qrcodereader-90aeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31299947414:android:d8eec435cfc5d90e272bb7",
+        "android_client_info": {
+          "package_name": "com.ghoudan.qrcodereader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31299947414-08stepsbvsnfu31ak0ibjjco93pleh5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQdvBZYoyC2G0tI23zZYc2NSB4flQzdUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31299947414-08stepsbvsnfu31ak0ibjjco93pleh5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
